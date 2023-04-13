@@ -65,7 +65,7 @@ class _LoginPageState extends State<LoginPage> {
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
                         Icon(Icons.adb_rounded, size: 100, color: Colors.white),
-                    Text("HOLÄ",
+                    Text("HELLO",
               style: GoogleFonts.bebasNeue(
                 fontSize: 50, color: Colors.white
               )),
