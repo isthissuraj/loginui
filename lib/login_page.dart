@@ -33,10 +33,7 @@ class _LoginPageState extends State<LoginPage> {
 
     Navigator.of(context).pop();
 
-    // setState(()
-    // {
-    //   UserEmail =_emailController.text.trim();
-    // });
+ 
   }
 
   @override
