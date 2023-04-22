@@ -62,9 +62,7 @@ class _LoginPageState extends State<LoginPage> {
                 fontSize: 50, color: Colors.white
               )),
 
-              // Text("WELCOME BACK",
-              // style: GoogleFonts.spaceGrotesk(fontSize: 30, color: Colors.white)
-              // ),
+             
                         SizedBox(height: 50,),
 
                         Padding(
