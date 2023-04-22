@@ -52,12 +52,7 @@ class _LoginPageState extends State<LoginPage> {
       backgroundColor: Color(0xff0e17ff),
         body: Container(
             height:MediaQuery.of(context).size.height,
-            // decoration: BoxDecoration(
-            //   image: DecorationImage(
-            //       image: AssetImage("assets/images/loginimage"
-            //           ".png"),
-            //       fit: BoxFit.cover),
-            // ),
+           
             child: SafeArea(
               child: Center(
                   child: SingleChildScrollView(
