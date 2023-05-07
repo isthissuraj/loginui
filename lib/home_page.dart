@@ -75,11 +75,7 @@ class _HomePageState extends State<HomePage> {
             ],
           ),
 
-          //ElevatedButton.icon(onPressed: (){}, icon: Icon(Icons.add_a_photo), label: Text('add from camera'))
-          // MaterialButton(onPressed: (){
-          //   FirebaseAuth.instance.signOut();
-          // }, color: Color(0xff0e17ff),
-          // child: Text('sign out!!'),)
+       
         ],
       )),
     );
