@@ -26,22 +26,9 @@ class _RegisterPageState extends State<RegisterPage> {
   final _ageController=TextEditingController();
 
 
- // @override
- // void dispose()
- // {
- //   _emailController.dispose();
- //   // _passwordController.dispose();
- //   // _ageController.dispose();
- //   // _confirmpasswordController.dispose();
- //   // _lastnameController.dispose();
- //   // _firstnameController.dispose();
- //   super.dispose();
- // }
+ 
 
 
-
-
-//signup method
 
 Future signup() async
 {
