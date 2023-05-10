@@ -170,18 +170,7 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  // loginUI() {
-  //   //loggedIn
-  //   //loginControllers
-  //
-  //   return Consumer<LoginController>(builder: (context, model, child) {Size
-  //       .fromHeight(10);
-  //   //if we are already logged in
-  //   if (model.userDetails != null) {
-  //     setState((){UserEmail = model.googleSignInAccount?.email;});
-  //     return Center(
-  //       heightFactor: 20,
-  //       child: loggedIn(model),
+  
   //     );
   //
   //   }
