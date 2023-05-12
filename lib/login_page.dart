@@ -172,8 +172,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
  
-  //         child: Image.asset(
-  //           "assets/images/google.png",
+ 
   //           width: 240,
   //           height: 50,
   //         ),
