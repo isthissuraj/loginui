@@ -200,9 +200,6 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-// }
-//
-// class _LoginPageState extends State<LoginPage> {
 //
 //   // here are the controllers for the texts
 //
