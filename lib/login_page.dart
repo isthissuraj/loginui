@@ -171,8 +171,7 @@ class _LoginPageState extends State<LoginPage> {
   }
 
 
-  //   return Center(
-  //     child: GestureDetector(
+ 
   //         child: Image.asset(
   //           "assets/images/google.png",
   //           width: 240,
