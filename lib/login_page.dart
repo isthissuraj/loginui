@@ -169,17 +169,6 @@ class _LoginPageState extends State<LoginPage> {
         )
     );
   }
-
-
- 
- 
-  
-
- 
-  // loggedIn(LoginController model) {
-  //   setState((){UserEmail = model.googleSignInAccount?.email;});
-  //   Navigator.push(context,MaterialPageRoute(builder: (context)
-
 }
 
 
