@@ -174,9 +174,7 @@ class _LoginPageState extends State<LoginPage> {
  
  
   
-  //         ),
-  //         onTap: () {
-  //           Provider.of<LoginController>(context, listen: false).googleLogin();
+
   //         }),
   //   );
   // }
