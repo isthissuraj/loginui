@@ -173,8 +173,7 @@ class _LoginPageState extends State<LoginPage> {
 
  
  
-  //           width: 240,
-  //           height: 50,
+  
   //         ),
   //         onTap: () {
   //           Provider.of<LoginController>(context, listen: false).googleLogin();
