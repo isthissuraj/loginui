@@ -170,20 +170,7 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  
-  //     );
-  //
-  //   }
-  //   if (model.userDetails==null)
-  //   {
-  //     return loginControllers(context);
-  //   }
-  //   else
-  //     return Text("please login");
-  //   });
-  // }
-  //
-  // loginControllers(BuildContext context) {
+
   //   return Center(
   //     child: GestureDetector(
   //         child: Image.asset(
