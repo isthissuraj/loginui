@@ -207,8 +207,7 @@ class _LoginPageState extends State<LoginPage> {
 
 //       password: _passwordController.text.trim(),);
 //   }
-//
-//   @override
+
 //   void dispose() {
 //     _emailController.dispose();
 //     _passwordController.dispose();
