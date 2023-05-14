@@ -200,8 +200,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//
-//   // here are the controllers for the texts
+
 //
 //   final TextEditingController _emailController = TextEditingController();
 //   final TextEditingController _passwordController = TextEditingController();
