@@ -225,8 +225,7 @@ class _LoginPageState extends State<LoginPage> {
 //
 //               //then the email text field
 //               Padding(
-//                 padding: const EdgeInsets.symmetric(horizontal: 25.0),
-//                 child: Container(
+
 //                   decoration: BoxDecoration(
 //                     color: Colors.grey.shade200,
 //                     border: Border.all(color: Colors.white),
