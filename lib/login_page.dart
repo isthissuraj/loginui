@@ -204,8 +204,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//               mainAxisAlignment: MainAxisAlignment.center,
-//               children: [
+
 //                 Icon(Icons.adb_rounded, size: 100, color: Colors.white),
 //
 //               // on the top there will be a big Hello again!
