@@ -217,7 +217,6 @@ class _LoginPageState extends State<LoginPage> {
 //               style: GoogleFonts.spaceGrotesk(fontSize: 30, color: Colors.white)
 //               ),
 //
-//               SizedBox(height: 50,),
 //
 //               //then the email text field
 //               Padding(
