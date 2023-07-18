@@ -204,7 +204,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//                 Icon(Icons.adb_rounded, size: 100, color: Colors.white),
+
 //
 //               // on the top there will be a big Hello again!
 //               Text("HOLÄ",
