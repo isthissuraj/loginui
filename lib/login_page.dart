@@ -205,9 +205,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//
-//               // on the top there will be a big Hello again!
-//               Text("HOLÄ",
+
 //               style: GoogleFonts.bebasNeue(
 //                 fontSize: 50, color: Colors.white
 //               )),
@@ -228,17 +226,7 @@ class _LoginPageState extends State<LoginPage> {
 //                   ),
 //                   child: Padding(
 //                     padding: const EdgeInsets.only(left:20.0),
-//                     child: TextField(
-//                       controller: _emailController,
-//                       decoration: InputDecoration(
-//                         border: InputBorder.none,
-//                         hintText: 'Email',
-//
-//                       ),
-//                     ),
-//                   ),
-//                 ),
-//               ),
+//                     child: T
 //
 //               SizedBox(height: 10),
 //               // then password text field
