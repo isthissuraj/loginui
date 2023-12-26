@@ -112,9 +112,7 @@ class _LoginPageState extends State<LoginPage> {
                             onTap: () {
                               // if (storingemailvalue != null)
                               signIn();
-                              // if(storingemailvalue==null)
-                              //   {
-                              //     return Container()
+                             
                               //
                               //   }
                             },
