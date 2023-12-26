@@ -206,10 +206,6 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//
-//
-//               //then the email text field
-//               Padding(
 
 //                   decoration: BoxDecoration(
 //                     color: Colors.grey.shade200,
