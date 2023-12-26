@@ -206,11 +206,6 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//               )),
-//
-//               Text("WELCOME BACK",
-//               style: GoogleFonts.spaceGrotesk(fontSize: 30, color: Colors.white)
-//               ),
 //
 //
 //               //then the email text field
