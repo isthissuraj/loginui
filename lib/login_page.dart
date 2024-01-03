@@ -204,8 +204,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-,
-//                     borderRadius: BorderRadius.circular(12)
+
 //
 //                   ),
 //                   child: Padding(
