@@ -201,16 +201,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-
-//
-//                 Row(
-//                   mainAxisAlignment: MainAxisAlignment.center,
-//                   children: [
-//                     Text(
-//                       "Not a member? ",
-//                       style: TextStyle(fontWeight: FontWeight.bold),
-//                     ),
-//                     GestureDetector(
+r
 //                       onTap: widget.showRegisterPage,
 //                       child: Text(
 //                         "Register Now",
