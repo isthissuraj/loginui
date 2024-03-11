@@ -201,14 +201,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-r
-//                       onTap: widget.showRegisterPage,
-//                       child: Text(
-//                         "Register Now",
-//                         style: TextStyle(
-//                             color: Colors.blue, fontWeight: FontWeight.bold),
-//                       ),
-//                     )
+
 //                   ],
 //                 ),
 //
