@@ -204,17 +204,6 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
-//                   child: Padding(
-//                     padding: EdgeInsets.only(left:20.0),
-//                     child: TextField(
-//                       controller: _passwordController,
-//                       obscureText: true,      // obscureText will hide the password
-//                       decoration: InputDecoration(
-//                         border: InputBorder.none,
-//                         hintText: 'Password',
-//                       ),
-//                     ),
-//                   ),
 //                 ),
 //               ),
 //               SizedBox(height: 10,),
