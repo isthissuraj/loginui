@@ -201,19 +201,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
 
- BorderRadius.circular(12)),
-//
-//                    child: Center(child: Text('Sign In', style: TextStyle(
-//                      color: Colors.white,
-//                      fontWeight: FontWeight.bold,
-//                      fontSize: 18
-//                    ),
-//                    )
-//                    ),
-//                     ),
-//                 ),
-//               ),
-//               SizedBox(height: 10,),
+
 //
 //                 Row(
 //                   mainAxisAlignment: MainAxisAlignment.center,
